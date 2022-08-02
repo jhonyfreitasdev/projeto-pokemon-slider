@@ -2,7 +2,7 @@
 Desafio feito no curso DevQuest, uma slider de uma pokédex que passa cards de pokémons.
 
 ## 🔗 Acesso ao projeto
-[<img src="src/images/tela-fylo.gif">](https://jhonyfreitasdev.github.io/projeto-fylo/)
+[<img src="src/gif/tela.gif">](https://jhonyfreitasdev.github.io/projeto-pokemon-slider/)
 
 ## 🛠 Skills
 <div style="display: inline_block"><br>
