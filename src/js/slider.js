@@ -3,7 +3,7 @@ let botaoVoltar = document.getElementById('btn-voltar');
 let listaPokedex = document.querySelectorAll('.cartao');
 let cartaoAtual = 0;
 
-botaoAvancar.addEventListener('click', function(){
+botaoAvancar.addEventListener('click', () =>{
     cartaoAnterior = cartaoAtual;
     cartaoAtual++;
     desabilitarSeta();
@@ -12,7 +12,7 @@ botaoAvancar.addEventListener('click', function(){
 
 });
 
-botaoVoltar.addEventListener('click', function(){
+botaoVoltar.addEventListener('click', () =>{
     cartaoAnterior = cartaoAtual;
     cartaoAtual--;
     desabilitarSeta();
