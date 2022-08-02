@@ -1,5 +1,5 @@
 # Projeto Pokémon Slider
-Desafio feito no curso DevQuest, uma slider de uma pokédex que passa cards de pokémons.
+Desafio feito no curso DevQuest, um slider de uma pokédex que passa cards de pokémons.
 
 ## 🔗 Acesso ao projeto
 [<img src="src/gif/tela.gif">](https://jhonyfreitasdev.github.io/projeto-pokemon-slider/)
